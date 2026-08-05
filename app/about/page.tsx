@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { Avatar } from "@/components/Avatar";
 import { getPollData } from "@/lib/data";
+import Link from "next/link";
 
 export const metadata: Metadata = {
   title: "About",
@@ -40,7 +41,7 @@ export default function AboutPage() {
             <article className="profile-card" key={profile.id}>
               <Avatar profile={profile} linked />
               {profile.bio[0] && <p>{profile.bio[0]}</p>}
-              <a className="text-link" href={`/voters/${profile.id}`}>View voter profile <span aria-hidden="true">→</span></a>
+              <Link className="text-link" href={`/voters/${profile.id}`}>View voter profile <span aria-hidden="true">→</span></Link>
             </article>
           ))}
         </div>
