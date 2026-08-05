@@ -1,0 +1,22 @@
+[
+  {
+    "id": "jane-doe",
+    "name": "Jane Doe",
+    "title": "Sports Editor",
+    "affiliation": "Gridiron Weekly",
+    "photo": "/voters/jane-doe.webp",
+    "specialties": [],
+    "bio": ["Covers collegiate football since 2012; member of FWAA."],
+    "links": [{ "label": "Professional profile", "url": "https://example.com/jane" }]
+  },
+  {
+    "id": "john-smith",
+    "name": "John Smith",
+    "title": "Analyst",
+    "affiliation": "College Metrics",
+    "photo": "/voters/john-smith.webp",
+    "specialties": [],
+    "bio": ["Focuses on efficiency metrics and schedule strength."],
+    "links": [{ "label": "Professional profile", "url": "https://example.com/john" }]
+  }
+]

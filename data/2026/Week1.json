@@ -1,0 +1,81 @@
+{
+  "season": 2026,
+  "week": 1,
+  "publishedAt": "2026-08-31",
+  "editorial": {
+    "headline": "Georgia opens the season with a clear hold on No. 1",
+    "dek": "A unanimous top choice leads Roman Poll’s first 2026 ballot, while Ohio State and Texas begin a tight race behind the Bulldogs.",
+    "analysis": [
+      "Georgia collected both first-place votes and the maximum 50 points, creating immediate separation at the top of the debut ranking.",
+      "Ohio State edged Texas by a single point for No. 2. The two voters reversed those teams on their ballots, making the early margin as narrow as possible.",
+      "The first edition establishes the baseline for movement. Week 2 will show which teams gained ground, held steady, or entered the Top 25."
+    ],
+    "highlights": [
+      { "label": "Consensus", "title": "Georgia starts alone at the top", "body": "Both ballots placed the Bulldogs first, giving Georgia every available first-place vote." },
+      { "label": "Closest race", "title": "One point separates No. 2 and No. 3", "body": "Ohio State’s 47 points narrowly topped Texas at 46 after the voters split their ordering." },
+      { "label": "On the edge", "title": "Miami claims the final spot", "body": "A No. 25 vote was enough to place Miami in the opening Top 25." }
+    ]
+  },
+  "voters": [
+    {
+      "voterId": "jane-doe",
+      "ballot": [
+        { "rank": 1, "team": "Georgia", "record": "1-0" },
+        { "rank": 2, "team": "Ohio State", "record": "1-0" },
+        { "rank": 3, "team": "Texas", "record": "1-0" },
+        { "rank": 4, "team": "Alabama", "record": "1-0" },
+        { "rank": 5, "team": "Oregon", "record": "1-0" },
+        { "rank": 6, "team": "Michigan", "record": "1-0" },
+        { "rank": 7, "team": "Notre Dame", "record": "1-0" },
+        { "rank": 8, "team": "Ole Miss", "record": "1-0" },
+        { "rank": 9, "team": "LSU", "record": "1-0" },
+        { "rank": 10, "team": "Penn State", "record": "1-0" },
+        { "rank": 11, "team": "Utah", "record": "1-0" },
+        { "rank": 12, "team": "Clemson", "record": "1-0" },
+        { "rank": 13, "team": "Florida State", "record": "1-0" },
+        { "rank": 14, "team": "Missouri", "record": "1-0" },
+        { "rank": 15, "team": "Washington", "record": "1-0" },
+        { "rank": 16, "team": "Oklahoma", "record": "1-0" },
+        { "rank": 17, "team": "Tennessee", "record": "1-0" },
+        { "rank": 18, "team": "Kansas State", "record": "1-0" },
+        { "rank": 19, "team": "USC", "record": "1-0" },
+        { "rank": 20, "team": "Iowa", "record": "1-0" },
+        { "rank": 21, "team": "North Carolina", "record": "1-0" },
+        { "rank": 22, "team": "Louisville", "record": "1-0" },
+        { "rank": 23, "team": "Arizona", "record": "1-0" },
+        { "rank": 24, "team": "SMU", "record": "1-0" },
+        { "rank": 25, "team": "Texas A&M", "record": "1-0" }
+      ]
+    },
+        {
+      "voterId": "john-smith",
+      "ballot": [
+        { "rank": 1, "team": "Georgia", "record": "1-0" },
+        { "rank": 2, "team": "Texas", "record": "1-0" },
+        { "rank": 3, "team": "Ohio State", "record": "1-0" },
+        { "rank": 4, "team": "Michigan", "record": "1-0" },
+        { "rank": 5, "team": "Oregon", "record": "1-0" },
+        { "rank": 6, "team": "Alabama", "record": "1-0" },
+        { "rank": 7, "team": "Penn State", "record": "1-0" },
+        { "rank": 8, "team": "LSU", "record": "1-0" },
+        { "rank": 9, "team": "Notre Dame", "record": "1-0" },
+        { "rank": 10, "team": "Utah", "record": "1-0" },
+        { "rank": 11, "team": "Florida State", "record": "1-0" },
+        { "rank": 12, "team": "Clemson", "record": "1-0" },
+        { "rank": 13, "team": "Oklahoma", "record": "1-0" },
+        { "rank": 14, "team": "Missouri", "record": "1-0" },
+        { "rank": 15, "team": "Washington", "record": "1-0" },
+        { "rank": 16, "team": "Tennessee", "record": "1-0" },
+        { "rank": 17, "team": "Kansas State", "record": "1-0" },
+        { "rank": 18, "team": "USC", "record": "1-0" },
+        { "rank": 19, "team": "Iowa", "record": "1-0" },
+        { "rank": 20, "team": "North Carolina", "record": "1-0" },
+        { "rank": 21, "team": "Louisville", "record": "1-0" },
+        { "rank": 22, "team": "Arizona", "record": "1-0" },
+        { "rank": 23, "team": "SMU", "record": "1-0" },
+        { "rank": 24, "team": "Texas A&M", "record": "1-0" },
+        { "rank": 25, "team": "Miami", "record": "1-0" }
+      ]
+    }
+  ]
+}

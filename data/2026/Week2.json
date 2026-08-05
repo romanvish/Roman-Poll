@@ -1,0 +1,75 @@
+{
+  "season": 2026,
+  "week": 2,
+  "publishedAt": "2026-09-07",
+  "editorial": {
+    "headline": "Georgia stays perfect as the chase pack reshuffles",
+    "dek": "The Bulldogs remain unanimous, Texas and Ohio State trade places, and two new teams break into Roman Poll’s second Top 25.",
+    "analysis": [
+      "Georgia again earned both first-place votes and all 50 available points. The top spot remains the strongest point of agreement on the ballot.",
+      "Texas moved ahead of Ohio State by a single point after the voters split their second- and third-place choices. Oregon also climbed past Michigan in another closely matched pair.",
+      "Miami and UCF joined the Top 25 this week, while the compact two-ballot field continued to produce meaningful movement from small differences in voter order."
+    ],
+    "highlights": [
+      { "label": "No. 1", "title": "Georgia remains unanimous", "body": "The Bulldogs repeated their maximum-points performance with two more first-place votes." },
+      { "label": "New arrivals", "title": "Miami and UCF enter the ranking", "body": "Miami rose into the poll at No. 23, while UCF debuted in the final position." },
+      { "label": "Top-five shift", "title": "Texas and Oregon gain ground", "body": "Texas claimed No. 2 and Oregon moved to No. 4 as both races changed by a single point." }
+    ]
+  },
+  "voters": [
+    { "voterId": "jane-doe", "ballot": [
+      { "rank": 1, "team": "Georgia", "record": "2-0" },
+      { "rank": 2, "team": "Texas", "record": "2-0" },
+      { "rank": 3, "team": "Ohio State", "record": "2-0" },
+      { "rank": 4, "team": "Oregon", "record": "2-0" },
+      { "rank": 5, "team": "Michigan", "record": "2-0" },
+      { "rank": 6, "team": "Alabama", "record": "2-0" },
+      { "rank": 7, "team": "LSU", "record": "2-0" },
+      { "rank": 8, "team": "Penn State", "record": "2-0" },
+      { "rank": 9, "team": "Notre Dame", "record": "2-0" },
+      { "rank": 10, "team": "Utah", "record": "2-0" },
+      { "rank": 11, "team": "Clemson", "record": "2-0" },
+      { "rank": 12, "team": "Florida State", "record": "2-0" },
+      { "rank": 13, "team": "Oklahoma", "record": "2-0" },
+      { "rank": 14, "team": "Washington", "record": "2-0" },
+      { "rank": 15, "team": "Missouri", "record": "2-0" },
+      { "rank": 16, "team": "Tennessee", "record": "2-0" },
+      { "rank": 17, "team": "Kansas State", "record": "2-0" },
+      { "rank": 18, "team": "USC", "record": "2-0" },
+      { "rank": 19, "team": "Iowa", "record": "2-0" },
+      { "rank": 20, "team": "North Carolina", "record": "2-0" },
+      { "rank": 21, "team": "Arizona", "record": "2-0" },
+      { "rank": 22, "team": "Louisville", "record": "2-0" },
+      { "rank": 23, "team": "SMU", "record": "2-0" },
+      { "rank": 24, "team": "Miami", "record": "2-0" },
+      { "rank": 25, "team": "Auburn", "record": "2-0" }
+    ]},
+        { "voterId": "john-smith", "ballot": [
+      { "rank": 1, "team": "Georgia", "record": "2-0" },
+      { "rank": 2, "team": "Ohio State", "record": "2-0" },
+      { "rank": 3, "team": "Texas", "record": "2-0" },
+      { "rank": 4, "team": "Michigan", "record": "2-0" },
+      { "rank": 5, "team": "Oregon", "record": "2-0" },
+      { "rank": 6, "team": "LSU", "record": "2-0" },
+      { "rank": 7, "team": "Alabama", "record": "2-0" },
+      { "rank": 8, "team": "Notre Dame", "record": "2-0" },
+      { "rank": 9, "team": "Penn State", "record": "2-0" },
+      { "rank": 10, "team": "Utah", "record": "2-0" },
+      { "rank": 11, "team": "Florida State", "record": "2-0" },
+      { "rank": 12, "team": "Clemson", "record": "2-0" },
+      { "rank": 13, "team": "Oklahoma", "record": "2-0" },
+      { "rank": 14, "team": "Washington", "record": "2-0" },
+      { "rank": 15, "team": "Missouri", "record": "2-0" },
+      { "rank": 16, "team": "Tennessee", "record": "2-0" },
+      { "rank": 17, "team": "USC", "record": "2-0" },
+      { "rank": 18, "team": "Iowa", "record": "2-0" },
+      { "rank": 19, "team": "Arizona", "record": "2-0" },
+      { "rank": 20, "team": "North Carolina", "record": "2-0" },
+      { "rank": 21, "team": "SMU", "record": "2-0" },
+      { "rank": 22, "team": "Louisville", "record": "2-0" },
+      { "rank": 23, "team": "Miami", "record": "2-0" },
+      { "rank": 24, "team": "Kansas State", "record": "2-0" },
+      { "rank": 25, "team": "UCF", "record": "2-0" }
+    ]}
+  ]
+}
