@@ -10,7 +10,7 @@ type TeamTotals = Omit<AggregatedTeam, "currentRank" | "movement">;
 
 function consensusFor(spread: number): AggregatedTeam["consensus"] {
   if (spread === 0) return "unanimous";
-  if (spread <= 2) return "close";
+  if (spread <= 5) return "close"; //Change This for the Range on How Split people are
   return "split";
 }
 

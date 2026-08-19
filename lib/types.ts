@@ -26,6 +26,7 @@ export type WeekFile = {
   season: number;
   week: number;
   publishedAt: string;
+  records: Record<string, string>;
   editorial: WeekEditorial;
   voters: VoterBallot[];
 };

@@ -4,7 +4,7 @@ import type { WeekFile } from "./types";
 
 const names = Array.from({ length: 26 }, (_, index) => `Team ${String(index + 1).padStart(2, "0")}`);
 function makeWeek(week: number, orders: string[][]): WeekFile {
-  return { season: 2026, week, publishedAt: `2026-09-${String(week).padStart(2, "0")}`, editorial: { headline: "H", dek: "D", analysis: ["A"], highlights: [] }, voters: orders.map((order, index) => ({ voterId: `v${index + 1}`, ballot: order.slice(0, 25).map((team, rank) => ({ rank: rank + 1, team, record: `${week}-0` })) })) };
+  return { season: 2026, week, publishedAt: `2026-09-${String(week).padStart(2, "0")}`, records: Object.fromEntries(names.map((team) => [team, `${week}-0`])), editorial: { headline: "H", dek: "D", analysis: ["A"], highlights: [] }, voters: orders.map((order, index) => ({ voterId: `v${index + 1}`, ballot: order.slice(0, 25).map((team, rank) => ({ rank: rank + 1, team, record: `${week}-0` })) })) };
 }
 
 describe("viewer insights", () => {

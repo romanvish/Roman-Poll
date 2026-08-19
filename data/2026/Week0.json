@@ -1,0 +1,161 @@
+{
+    "season": 2026,
+    "week": 0,
+    "publishedAt": "2026-08-18",
+    "records": {
+        "Alabama": "0-0",
+        "Arizona": "0-0",
+        "Boise State": "0-0",
+        "BYU": "0-0",
+        "California": "0-0",
+        "Clemson": "0-0",
+        "Florida": "0-0",
+        "Florida State": "0-0",
+        "Georgia": "0-0",
+        "Houston": "0-0",
+        "Indiana": "0-0",
+        "Iowa": "0-0",
+        "Kansas State": "0-0",
+        "Louisville": "0-0",
+        "LSU": "0-0",
+        "Miami": "0-0",
+        "Michigan": "0-0",
+        "Missouri": "0-0",
+        "North Carolina": "0-0",
+        "Notre Dame": "0-0",
+        "Ohio State": "0-0",
+        "Oklahoma": "0-0",
+        "Ole Miss": "0-0",
+        "Oregon": "0-0",
+        "Penn State": "0-0",
+        "SMU": "0-0",
+        "South Carolina": "0-0",
+        "Tennessee": "0-0",
+        "Texas": "0-0",
+        "Texas A&M": "0-0",
+        "Texas Tech": "0-0",
+        "UCF": "0-0",
+        "USC": "0-0",
+        "Utah": "0-0",
+        "Virginia Tech": "0-0",
+        "Washington": "0-0"
+    },
+    "editorial": {
+        "headline": "Georgia opens the season with a clear hold on No. 1",
+        "dek": "A unanimous top choice leads Roman Poll’s first 2026 ballot, while Ohio State and Texas begin a tight race behind the Bulldogs.",
+        "analysis": [
+            "Georgia collected both first-place votes and the maximum 50 points, creating immediate separation at the top of the debut ranking.",
+            "Ohio State edged Texas by a single point for No. 2. The two voters reversed those teams on their ballots, making the early margin as narrow as possible.",
+            "The first edition establishes the baseline for movement. Week 2 will show which teams gained ground, held steady, or entered the Top 25."
+        ],
+        "highlights": [
+            {
+                "label": "Consensus",
+                "title": "Georgia starts alone at the top",
+                "body": "Both ballots placed the Bulldogs first, giving Georgia every available first-place vote."
+            },
+            {
+                "label": "Closest race",
+                "title": "One point separates No. 2 and No. 3",
+                "body": "Ohio State’s 47 points narrowly topped Texas at 46 after the voters split their ordering."
+            },
+            {
+                "label": "On the edge",
+                "title": "Miami claims the final spot",
+                "body": "A No. 25 vote was enough to place Miami in the opening Top 25."
+            }
+        ]
+    },
+    "voters": [
+        {
+            "voterId": "roman-vish",
+            "ballot": [
+                {"rank": 1, "team": "Ohio State"},
+                {"rank": 2,"team": "Oregon"},
+                {"rank": 3,"team": "Indiana"},
+                {"rank": 4,"team": "Georgia"},
+                {"rank": 5,"team": "Miami"},
+                {"rank": 6,"team": "Notre Dame"},
+                {"rank": 7,"team": "Texas"},
+                {"rank": 8,"team": "Oklahoma"},
+                {"rank": 9,"team": "Texas A&M"},
+                {"rank": 10,"team": "Ole Miss"},
+                {"rank": 11,"team": "Texas Tech"},
+                {"rank": 12,"team": "LSU"},
+                {"rank": 13,"team": "USC"},
+                {"rank": 14,"team": "BYU"},
+                {"rank": 15,"team": "Alabama"},
+                {"rank": 16,"team": "Washington"},
+                {"rank": 17,"team": "SMU"},
+                {"rank": 18,"team": "Tennessee"},
+                {"rank": 19,"team": "Michigan"},
+                {"rank": 20,"team": "Houston"},
+                {"rank": 21,"team": "Louisville"},
+                {"rank": 22,"team": "Utah"},
+                {"rank": 23,"team": "Florida"},
+                {"rank": 24,"team": "Arizona"},
+                {"rank": 25,"team": "Penn State"}
+            ]
+        },
+        {
+            "voterId": "carter-reeves",
+            "ballot": [
+                {"rank": 1,"team": "Ohio State"},
+                {"rank": 2,"team": "Oregon"},
+                {"rank": 3,"team": "Notre Dame"},
+                {"rank": 4,"team": "Miami"},
+                {"rank": 5,"team": "Georgia"},
+                {"rank": 6,"team": "LSU"},
+                {"rank": 7,"team": "Texas"},
+                {"rank": 8,"team": "Indiana"},
+                {"rank": 9,"team": "Texas Tech"},
+                {"rank": 10,"team": "Texas A&M"},
+                {"rank": 11,"team": "USC"},
+                {"rank": 12,"team": "BYU"},
+                {"rank": 13,"team": "Oklahoma"},
+                {"rank": 14,"team": "Alabama"},
+                {"rank": 15,"team": "Ole Miss"},
+                {"rank": 16,"team": "Washington"},
+                {"rank": 17,"team": "Iowa"},
+                {"rank": 18,"team": "SMU"},
+                {"rank": 19,"team": "Michigan"},
+                {"rank": 20,"team": "Boise State"},
+                {"rank": 21,"team": "Penn State"},
+                {"rank": 22,"team": "Florida"},
+                {"rank": 23,"team": "California"},
+                {"rank": 24,"team": "Virginia Tech"},
+                {"rank": 25,"team": "Utah"}
+            ]
+        },
+        {
+            "voterId": "jack-wooley",
+            "ballot": [
+                {"rank": 1,"team": "Ohio State"},
+                {"rank": 2,"team": "Oregon"},
+                {"rank": 3,"team": "Indiana"},
+                {"rank": 4,"team": "Georgia"},
+                {"rank": 5,"team": "Miami"},
+                {"rank": 6,"team": "Texas"},
+                {"rank": 7,"team": "Texas A&M"},
+                {"rank": 8,"team": "Notre Dame"},
+                {"rank": 9,"team": "Texas Tech"},
+                {"rank": 10,"team": "Ole Miss"},
+                {"rank": 11,"team": "LSU"},
+                {"rank": 12,"team": "Oklahoma"},
+                {"rank": 13,"team": "BYU"},
+                {"rank": 14,"team": "Washington"},
+                {"rank": 15,"team": "Penn State"},
+                {"rank": 16,"team": "Alabama"},
+                {"rank": 17,"team": "USC"},
+                {"rank": 18,"team": "Tennessee"},
+                {"rank": 19,"team": "Missouri"},
+                {"rank": 20,"team": "Utah"},
+                {"rank": 21,"team": "Michigan"},
+                {"rank": 22,"team": "Arizona"},
+                {"rank": 23,"team": "Iowa"},
+                {"rank": 24,"team": "South Carolina"},
+                {"rank": 25,"team": "California"}
+            ]
+        }
+    ]
+}

@@ -97,6 +97,9 @@ export function parseTeams(value: unknown, source = "teams.json"): TeamProfile[]
 export function validateTeamCoverage(weeks: WeekFile[], teams: TeamProfile[]): void {
   const teamNames = new Set(teams.map((team) => team.name));
   for (const week of weeks) {
+    for (const team of Object.keys(week.records)) {
+      if (!teamNames.has(team)) fail(`data/${week.season}/Week${week.week}.json`, `unknown team "${team}" in records; add it to data/teams.json`);
+    }
     for (const entry of week.voters.flatMap((voter) => voter.ballot)) {
       if (!teamNames.has(entry.team)) fail(`data/${week.season}/Week${week.week}.json`, `unknown team “${entry.team}”; add it to data/teams.json`);
     }
@@ -115,6 +118,13 @@ export function parseWeek(
   if (season !== expected.season) fail(source, `season ${season} does not match folder ${expected.season}`);
   if (week !== expected.week) fail(source, `week ${week} does not match filename Week${expected.week}.json`);
 
+  const rawRecords = object(root.records, source, "records");
+  const records = Object.fromEntries(Object.entries(rawRecords).map(([team, rawRecord]) => {
+    const record = text(rawRecord, source, `records.${team}`);
+    if (!/^\d+-\d+(?:-\d+)?$/.test(record)) fail(source, `records.${team} must use W-L or W-L-T format`);
+    return [team, record];
+  }));
+
   const editorial = object(root.editorial, source, "editorial");
   const analysis = array(editorial.analysis, source, "editorial.analysis").map((item, index) =>
     text(item, source, `editorial.analysis[${index}]`),
@@ -129,7 +139,6 @@ export function parseWeek(
   });
 
   const seenVoters = new Set<string>();
-  const records = new Map<string, string>();
   const voters = array(root.voters, source, "voters").map((raw, voterIndex) => {
     const voter = object(raw, source, `voters[${voterIndex}]`);
     const voterId = text(voter.voterId, source, `voters[${voterIndex}].voterId`);
@@ -143,15 +152,14 @@ export function parseWeek(
       const entry = object(rawRank, source, `${voterId}.ballot[${rankIndex}]`);
       const rank = integer(entry.rank, source, `${voterId}.ballot[${rankIndex}].rank`);
       const team = text(entry.team, source, `${voterId}.ballot[${rankIndex}].team`);
-      const record = text(entry.record, source, `${voterId}.ballot[${rankIndex}].record`);
+      if ("record" in entry) fail(source, `${voterId}.ballot[${rankIndex}].record is not allowed; define it once in records`);
+      const record = records[team];
+      if (!record) fail(source, `missing record for "${team}"`);
       if (rank < 1 || rank > 25) fail(source, `${voterId} has rank ${rank}; expected 1–25`);
       if (ranks.has(rank)) fail(source, `${voterId} has duplicate rank ${rank}`);
       if (teams.has(team)) fail(source, `${voterId} ranks “${team}” more than once`);
       ranks.add(rank);
       teams.add(team);
-      const knownRecord = records.get(team);
-      if (knownRecord && knownRecord !== record) fail(source, `conflicting records for “${team}”`);
-      records.set(team, record);
       return { rank, team, record };
     });
     if (ballot.length !== 25) fail(source, `${voterId} has ${ballot.length} rankings; expected 25`);
@@ -164,6 +172,7 @@ export function parseWeek(
     season,
     week,
     publishedAt: text(root.publishedAt, source, "publishedAt"),
+    records,
     editorial: {
       headline: text(editorial.headline, source, "editorial.headline"),
       dek: text(editorial.dek, source, "editorial.dek"),

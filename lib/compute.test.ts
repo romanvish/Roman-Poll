@@ -9,6 +9,7 @@ function week(number: number, orders: string[][]): WeekFile {
     season: 2026,
     week: number,
     publishedAt: "2026-09-01",
+    records: Object.fromEntries(teams.map((team) => [team, "1-0"])),
     editorial: { headline: "Headline", dek: "Dek", analysis: ["Analysis"], highlights: [] },
     voters: orders.map((order, voter) => ({
       voterId: `voter-${voter}`,

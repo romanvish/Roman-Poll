@@ -1,17 +1,38 @@
 import { describe, expect, it } from "vitest";
 import { parseJsonText, parseTeams, parseVoters, parseWeek, validateTeamCoverage } from "./data";
-const ballot = Array.from({ length: 25 }, (_, index) => ({ rank: index + 1, team: `Team ${index + 1}`, record: "1-0" }));
+const ballot = Array.from({ length: 25 }, (_, index) => ({ rank: index + 1, team: `Team ${index + 1}` }));
+const records = Object.fromEntries(ballot.map((entry) => [entry.team, "1-0"]));
 const valid = {
   season: 2026,
   week: 1,
   publishedAt: "2026-09-01",
+  records,
   editorial: { headline: "Headline", dek: "Dek", analysis: ["Analysis"], highlights: [] },
   voters: [{ voterId: "voter", ballot }],
 };
 
 describe("poll data validation", () => {
   it("accepts a complete edition", () => {
-    expect(parseWeek(valid, { season: 2026, week: 1 }, new Set(["voter"]))).toMatchObject({ season: 2026, week: 1 });
+    const parsed = parseWeek(valid, { season: 2026, week: 1 }, new Set(["voter"]));
+    expect(parsed).toMatchObject({ season: 2026, week: 1, records });
+    expect(parsed.voters[0].ballot[0]).toEqual({ rank: 1, team: "Team 1", record: "1-0" });
+  });
+
+  it("hydrates the same weekly record into every voter ballot", () => {
+    const parsed = parseWeek({ ...valid, voters: [
+      { voterId: "first", ballot },
+      { voterId: "second", ballot: [...ballot].reverse().map((entry, index) => ({ ...entry, rank: index + 1 })) },
+    ] }, { season: 2026, week: 1 }, new Set(["first", "second"]));
+    expect(parsed.voters.flatMap((voter) => voter.ballot).filter((entry) => entry.team === "Team 1").map((entry) => entry.record)).toEqual(["1-0", "1-0"]);
+  });
+
+  it("rejects missing, blank, malformed, and ballot-level records", () => {
+    const missingRecord = { ...records };
+    delete missingRecord[ballot[0].team];
+    expect(() => parseWeek({ ...valid, records: missingRecord }, { season: 2026, week: 1 }, new Set(["voter"]))).toThrow(/missing record/);
+    expect(() => parseWeek({ ...valid, records: { ...records, "Team 1": " " } }, { season: 2026, week: 1 }, new Set(["voter"]))).toThrow(/non-empty string/);
+    expect(() => parseWeek({ ...valid, records: { ...records, "Team 1": "undefeated" } }, { season: 2026, week: 1 }, new Set(["voter"]))).toThrow(/W-L or W-L-T/);
+    expect(() => parseWeek({ ...valid, voters: [{ voterId: "voter", ballot: ballot.map((entry, index) => index === 0 ? { ...entry, record: "1-0" } : entry) }] }, { season: 2026, week: 1 }, new Set(["voter"]))).toThrow(/not allowed/);
   });
 
   it("reports malformed JSON with its source", () => {

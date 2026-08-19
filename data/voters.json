@@ -1,22 +1,92 @@
 [
   {
-    "id": "jane-doe",
-    "name": "Jane Doe",
-    "title": "Sports Editor",
-    "affiliation": "Gridiron Weekly",
-    "photo": "/voters/jane-doe.webp",
-    "specialties": [],
-    "bio": ["Covers collegiate football since 2012; member of FWAA."],
-    "links": [{ "label": "Professional profile", "url": "https://example.com/jane" }]
+    "id": "roman-vish",
+    "name": "Roman Vish",
+    "title": "Poll Leader",
+    "affiliation": "BYU & GT",
+    "photo": "/voters/roman-vish.webp",
+    "specialties": ["Data Analysis", "Crashing Out"],
+    "bio": ["Reformed NFL fan converted to college football. Roman has been a fan of the sport since 2017 and has devoted his life to football analytics. He founded the Roman poll to promote transparency and accountability in college football rankings."],
+    "links": [{ "label": "Professional profile", "url": "https://linkedin.com/in/romanvish" }]
   },
   {
-    "id": "john-smith",
-    "name": "John Smith",
-    "title": "Analyst",
-    "affiliation": "College Metrics",
-    "photo": "/voters/john-smith.webp",
-    "specialties": [],
-    "bio": ["Focuses on efficiency metrics and schedule strength."],
-    "links": [{ "label": "Professional profile", "url": "https://example.com/john" }]
+    "id": "carter-reeves",
+    "name": "Carter Reeves",
+    "title": "PNW Representative",
+    "affiliation": "BYU & UW",
+    "photo": "/voters/carter-reeves.webp",
+    "specialties": ["Feelings", "Funny"],
+    "bio": ["Insert Carter's bio here."],
+    "links": [{ "label": "Professional profile", "url": "https://www.byu.edu" }]
+  },
+  {
+    "id": "jack-wooley",
+    "name": "Jack Wooley",
+    "title": "Stats Guy",
+    "affiliation": "BYU & TAMU",
+    "photo": "/voters/jack-wooley.webp",
+    "specialties": ["Numbers", "2-sample T-Tests"],
+    "bio": ["Insert Jack's bio here."],
+    "links": [{ "label": "Professional profile", "url": "https://www.byu.edu" }]
+  },
+  {
+    "id": "michael-skye",
+    "name": "Michael Skye",
+    "title": "Ball Knower",
+    "affiliation": "BYU & LSU",
+    "photo": "/voters/michael-skye.webp",
+    "specialties": ["Roster Knowledge", "Geaux Tigahs"],
+    "bio": ["Do you know the UMass 3rd string nose guard? Michael does. Remember that if you question his rankings."],
+    "links": [{ "label": "Professional profile", "url": "https://www.byu.edu" }]
+  },
+  {
+    "id": "michael-frodsham",
+    "name": "Michael Frodsham",
+    "title": "Die Hard",
+    "affiliation": "BYU",
+    "photo": "/voters/michael-frodsham.webp",
+    "specialties": ["Dadding"],
+    "bio": ["Insert Michael's bio here."],
+    "links": [{ "label": "Professional profile", "url": "https://www.byu.edu" }]
+  },
+  {
+    "id": "nathan-johnson",
+    "name": "Nathan Johnson",
+    "title": "The Muscle",
+    "affiliation": "BYU",
+    "photo": "/voters/nathan-johnson.webp",
+    "specialties": ["Flexing"],
+    "bio": ["Insert Nathan's bio here."],
+    "links": [{ "label": "Professional profile", "url": "https://www.byu.edu" }]
+  },
+  {
+    "id": "carson-halls",
+    "name": "Carson Halls",
+    "title": "Implementation Specialist",
+    "affiliation": "BYU",
+    "photo": "/voters/carson-halls.webp",
+    "specialties": ["Hosting", "Dadding"],
+    "bio": ["Insert Carson's bio here."],
+    "links": [{ "label": "Professional profile", "url": "https://www.byu.edu" }]
+  },
+  {
+    "id": "danny-seaman",
+    "name": "Danny Seaman",
+    "title": "Holier Than Thou",
+    "affiliation": "BYU",
+    "photo": "/voters/danny-seaman.webp",
+    "specialties": ["Organization", "Economics"],
+    "bio": ["Insert Danny's bio here."],
+    "links": [{ "label": "Professional profile", "url": "https://www.byu.edu" }]
+  },
+  {
+    "id": "tanner-meeves",
+    "name": "Tanner Meeves",
+    "title": "The Legacy",
+    "affiliation": "BYU",
+    "photo": "/voters/tanner-meeves.webp",
+    "specialties": ["Account Managment", "Women"],
+    "bio": ["Insert Tanner's bio here."],
+    "links": [{ "label": "Professional profile", "url": "https://www.byu.edu" }]
   }
 ]
