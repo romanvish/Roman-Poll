@@ -156,6 +156,36 @@
                 {"rank": 24,"team": "South Carolina"},
                 {"rank": 25,"team": "California"}
             ]
+        },
+        {
+            "voterId": "tanner-meeves",
+            "ballot": [
+                {"rank": 1,"team": "Ohio State"},
+                {"rank": 2,"team": "Notre Dame"},
+                {"rank": 3,"team": "Indiana"},
+                {"rank": 4,"team": "Texas"},
+                {"rank": 5,"team": "Oregon"},
+                {"rank": 6,"team": "Georgia"},
+                {"rank": 7,"team": "Miami"},
+                {"rank": 8,"team": "Oklahoma"},
+                {"rank": 9,"team": "LSU"},
+                {"rank": 10,"team": "Ole Miss"},
+                {"rank": 11,"team": "Texas Tech"},
+                {"rank": 12,"team": "Alabama"},
+                {"rank": 13,"team": "BYU"},
+                {"rank": 14,"team": "Texas A&M"},
+                {"rank": 15,"team": "USC"},
+                {"rank": 16,"team": "Michigan"},
+                {"rank": 17,"team": "Louisville"},
+                {"rank": 18,"team": "Tennessee"},
+                {"rank": 19,"team": "Utah"},
+                {"rank": 20,"team": "SMU"},
+                {"rank": 21,"team": "Houston"},
+                {"rank": 22,"team": "Iowa"},
+                {"rank": 23,"team": "Penn State"},
+                {"rank": 24,"team": "Missouri"},
+                {"rank": 25,"team": "TCU"}
+            ]
         }
     ]
 }
