@@ -27,7 +27,7 @@
   { "id": "penn-state", "name": "Penn State", "abbreviation": "PSU", "logo": "/team-logos/penn-state.png" },
   { "id": "smu", "name": "SMU", "abbreviation": "SMU", "logo": "/team-logos/smu.png" },
   { "id": "south-carolina", "name": "South Carolina", "abbreviation": "SC", "logo": "/team-logos/south-carolina.png" },
-  { "id": "tcu", "name": "Tennessee", "abbreviation": "TCU", "logo": "/team-logos/tcu.png" },
+  { "id": "tcu", "name": "TCU", "abbreviation": "TCU", "logo": "/team-logos/tcu.png" },
   { "id": "tennessee", "name": "Tennessee", "abbreviation": "TENN", "logo": "/team-logos/tennessee.png" },
   { "id": "texas", "name": "Texas", "abbreviation": "TEX", "logo": "/team-logos/texas.png" },
   { "id": "texas-am", "name": "Texas A&M", "abbreviation": "TAMU", "logo": "/team-logos/texas-am.png" },
