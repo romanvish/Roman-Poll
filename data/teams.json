@@ -18,6 +18,7 @@
   { "id": "miami", "name": "Miami", "abbreviation": "MIA", "logo": "/team-logos/miami.png" },
   { "id": "michigan", "name": "Michigan", "abbreviation": "MICH", "logo": "/team-logos/michigan.png" },
   { "id": "missouri", "name": "Missouri", "abbreviation": "MIZ", "logo": "/team-logos/missouri.png" },
+  { "id": "nebraska", "name": "Nebraska", "abbreviation": "NEB", "logo": "/team-logos/nebraska.png" },
   { "id": "north-carolina", "name": "North Carolina", "abbreviation": "UNC", "logo": "/team-logos/north-carolina.png" },
   { "id": "notre-dame", "name": "Notre Dame", "abbreviation": "ND", "logo": "/team-logos/notre-dame.png" },
   { "id": "ohio-state", "name": "Ohio State", "abbreviation": "OSU", "logo": "/team-logos/ohio-state.png" },

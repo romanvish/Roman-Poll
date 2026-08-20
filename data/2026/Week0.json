@@ -21,6 +21,7 @@
         "Miami": "0-0",
         "Michigan": "0-0",
         "Missouri": "0-0",
+        "Nebraska": "0-0",
         "North Carolina": "0-0",
         "Notre Dame": "0-0",
         "Ohio State": "0-0",
@@ -216,6 +217,36 @@
                 {"rank": 23,"team": "Missouri"},
                 {"rank": 24,"team": "Houston"},
                 {"rank": 25,"team": "Utah"}
+            ]
+        },
+        {
+            "voterId": "nathan-johnson",
+            "ballot": [
+                {"rank": 1,"team": "Ohio State"},
+                {"rank": 2,"team": "Indiana"},
+                {"rank": 3,"team": "Georgia"},
+                {"rank": 4,"team": "Notre Dame"},
+                {"rank": 5,"team": "Oregon"},
+                {"rank": 6,"team": "Miami"},
+                {"rank": 7,"team": "Texas"},
+                {"rank": 8,"team": "Texas A&M"},
+                {"rank": 9,"team": "Texas Tech"},
+                {"rank": 10,"team": "LSU"},
+                {"rank": 11,"team": "BYU"},
+                {"rank": 12,"team": "Ole Miss"},
+                {"rank": 13,"team": "Oklahoma"},
+                {"rank": 14,"team": "USC"},
+                {"rank": 15,"team": "Alabama"},
+                {"rank": 16,"team": "Michigan"},
+                {"rank": 17,"team": "Penn State"},
+                {"rank": 18,"team": "Washington"},
+                {"rank": 19,"team": "SMU"},
+                {"rank": 20,"team": "Houston"},
+                {"rank": 21,"team": "Utah"},
+                {"rank": 22,"team": "Nebraska"},
+                {"rank": 23,"team": "Arizona"},
+                {"rank": 24,"team": "Louisville"},
+                {"rank": 25,"team": "Boise State"}
             ]
         }
     ]
