@@ -88,5 +88,15 @@
     "specialties": ["Account Managment", "Women"],
     "bio": ["Insert Tanner's bio here."],
     "links": [{ "label": "Professional profile", "url": "https://www.byu.edu" }]
+  },
+  {
+    "id": "daniel-tree",
+    "name": "Daniel Tree",
+    "title": "Boilermaker",
+    "affiliation": "BYU & Purdue",
+    "photo": "/voters/daniel-tree.webp",
+    "specialties": ["Movies", "Hoops"],
+    "bio": ["Insert Daniel's bio here."],
+    "links": [{ "label": "Professional profile", "url": "https://www.byu.edu" }]
   }
 ]
