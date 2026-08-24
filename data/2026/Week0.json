@@ -13,6 +13,7 @@
         "Florida State": "0-0",
         "Georgia": "0-0",
         "Houston": "0-0",
+        "Illinois": "0-0",
         "Indiana": "0-0",
         "Iowa": "0-0",
         "Kansas State": "0-0",
@@ -247,6 +248,36 @@
                 {"rank": 23,"team": "Arizona"},
                 {"rank": 24,"team": "Louisville"},
                 {"rank": 25,"team": "Boise State"}
+            ]
+        },
+        {
+            "voterId": "daniel-tree",
+            "ballot": [
+                {"rank": 1,"team": "Ohio State"},
+                {"rank": 2,"team": "Oregon"},
+                {"rank": 3,"team": "Georgia"},
+                {"rank": 4,"team": "Notre Dame"},
+                {"rank": 5,"team": "Indiana"},
+                {"rank": 6,"team": "Miami"},
+                {"rank": 7,"team": "Texas Tech"},
+                {"rank": 8,"team": "Texas A&M"},
+                {"rank": 9,"team": "Texas"},
+                {"rank": 10,"team": "BYU"},
+                {"rank": 11,"team": "Alabama"},
+                {"rank": 12,"team": "Michigan"},
+                {"rank": 13,"team": "LSU"},
+                {"rank": 14,"team": "Iowa"},
+                {"rank": 15,"team": "SMU"},
+                {"rank": 16,"team": "Oklahoma"},
+                {"rank": 17,"team": "Washington"},
+                {"rank": 18,"team": "Ole Miss"},
+                {"rank": 19,"team": "Tennessee"},
+                {"rank": 20,"team": "USC"},
+                {"rank": 21,"team": "Penn State"},
+                {"rank": 22,"team": "Utah"},
+                {"rank": 23,"team": "Louisville"},
+                {"rank": 24,"team": "Illinois"},
+                {"rank": 25,"team": "Arizona"}
             ]
         }
     ]
