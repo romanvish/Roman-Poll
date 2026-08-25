@@ -44,28 +44,28 @@
         "Washington": "0-0"
     },
     "editorial": {
-        "headline": "Georgia opens the season with a clear hold on No. 1",
-        "dek": "A unanimous top choice leads Roman Poll’s first 2026 ballot, while Ohio State and Texas begin a tight race behind the Bulldogs.",
+        "headline": "Welcome to the Inaugural Roman Poll!",
+        "dek": "Ohio State opens as the top pick in the 2026 Preseason Poll, Oregon and defending national champion Indiana round out the podium. Notre Dame is the only other team to receive a first-place vote.",
         "analysis": [
-            "Georgia collected both first-place votes and the maximum 50 points, creating immediate separation at the top of the debut ranking.",
-            "Ohio State edged Texas by a single point for No. 2. The two voters reversed those teams on their ballots, making the early margin as narrow as possible.",
-            "The first edition establishes the baseline for movement. Week 2 will show which teams gained ground, held steady, or entered the Top 25."
+            "Voters think there is a top tier at 1-7, and then a second tier at 8-15, and then everybody else.",
+            "The Big 10 controls the top of the poll, with the SEC rounding out most of the top 15. Low representation from the ACC and Big 12.",
+            "No love for the Group of 6 as Boise State barely doesn't crack the preseason Top 25, and no other G6 team got a single vote."
         ],
         "highlights": [
             {
                 "label": "Consensus",
-                "title": "Georgia starts alone at the top",
-                "body": "Both ballots placed the Bulldogs first, giving Georgia every available first-place vote."
+                "title": "Ohio State starts alone at the top",
+                "body": "Six of seven ballots placed the Buckeyes first, giving Ohio State a healthy lead to start the season."
             },
             {
-                "label": "Closest race",
-                "title": "One point separates No. 2 and No. 3",
-                "body": "Ohio State’s 47 points narrowly topped Texas at 46 after the voters split their ordering."
+                "label": "Big 10 Wildcards",
+                "title": "Debate amongst the voters",
+                "body": "The widest spreads between the voters were seen in the Big 10, with low consensus upper-middle class of teams like Iowa, Washington, and Penn State."
             },
             {
-                "label": "On the edge",
-                "title": "Miami claims the final spot",
-                "body": "A No. 25 vote was enough to place Miami in the opening Top 25."
+                "label": "Lone Star Grouping",
+                "title": "Texas schools end up together in the Top 10",
+                "body": "Texas is seen as the lowest ranked \"Title Contender\", with A&M and Tech leading the second tier of the poll."
             }
         ]
     },
