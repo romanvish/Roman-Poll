@@ -9,6 +9,7 @@
   { "id": "florida", "name": "Florida", "abbreviation": "FLA", "logo": "/team-logos/florida.png" },
   { "id": "florida-state", "name": "Florida State", "abbreviation": "FSU", "logo": "/team-logos/florida-state.png" },
   { "id": "georgia", "name": "Georgia", "abbreviation": "UGA", "logo": "/team-logos/georgia.png" },
+  { "id": "georgia-tech", "name": "Georgia Tech", "abbreviation": "GT", "logo": "/team-logos/georgia-tech.png" },
   { "id": "houston", "name": "Houston", "abbreviation": "HOU", "logo": "/team-logos/houston.png" },
   { "id": "illinois", "name": "Illinois", "abbreviation": "ILLI", "logo": "/team-logos/illinois.png" },
   { "id": "indiana", "name": "Indiana", "abbreviation": "IND", "logo": "/team-logos/indiana.png" },

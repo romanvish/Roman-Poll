@@ -70,16 +70,6 @@
     "links": [{ "label": "Professional profile", "url": "https://www.byu.edu" }]
   },
   {
-    "id": "danny-seaman",
-    "name": "Danny Seaman",
-    "title": "Holier Than Thou",
-    "affiliation": "BYU",
-    "photo": "/voters/danny-seaman.webp",
-    "specialties": ["Organization", "Economics"],
-    "bio": ["Insert Danny's bio here."],
-    "links": [{ "label": "Professional profile", "url": "https://www.byu.edu" }]
-  },
-  {
     "id": "tanner-meeves",
     "name": "Tanner Meeves",
     "title": "The Legacy",
