@@ -28,6 +28,7 @@
   { "id": "ole-miss", "name": "Ole Miss", "abbreviation": "MISS", "logo": "/team-logos/ole-miss.png" },
   { "id": "oregon", "name": "Oregon", "abbreviation": "ORE", "logo": "/team-logos/oregon.png" },
   { "id": "penn-state", "name": "Penn State", "abbreviation": "PSU", "logo": "/team-logos/penn-state.png" },
+  { "id": "pittsburgh", "name": "Pittsburgh", "abbreviation": "PITT", "logo": "/team-logos/pittsburgh.png" },
   { "id": "smu", "name": "SMU", "abbreviation": "SMU", "logo": "/team-logos/smu.png" },
   { "id": "south-carolina", "name": "South Carolina", "abbreviation": "SC", "logo": "/team-logos/south-carolina.png" },
   { "id": "tcu", "name": "TCU", "abbreviation": "TCU", "logo": "/team-logos/tcu.png" },
@@ -36,9 +37,11 @@
   { "id": "texas-am", "name": "Texas A&M", "abbreviation": "TAMU", "logo": "/team-logos/texas-am.png" },
   { "id": "texas-tech", "name": "Texas Tech", "abbreviation": "TTU", "logo": "/team-logos/texas-tech.png" },
   { "id": "ucf", "name": "UCF", "abbreviation": "UCF", "logo": "/team-logos/ucf.png" },
+  { "id": "ucla", "name": "UCLA", "abbreviation": "UCLA", "logo": "/team-logos/ucla.png" },
   { "id": "usc", "name": "USC", "abbreviation": "USC", "logo": "/team-logos/usc.png" },
   { "id": "utah", "name": "Utah", "abbreviation": "UTAH", "logo": "/team-logos/utah.png" },
   { "id": "virginia-tech", "name": "Virginia Tech", "abbreviation": "VT", "logo": "/team-logos/virginia-tech.png" },
   { "id": "washington-state", "name": "Washington State", "abbreviation": "WSU", "logo": "/team-logos/washington-state.png" },
-  { "id": "washington", "name": "Washington", "abbreviation": "WASH", "logo": "/team-logos/washington.png" }
+  { "id": "washington", "name": "Washington", "abbreviation": "WASH", "logo": "/team-logos/washington.png" },
+  { "id": "western-michigan", "name": "Western Michigan", "abbreviation": "WM", "logo": "/team-logos/western-michigan.png" }
 ]
