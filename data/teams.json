@@ -40,6 +40,7 @@
   { "id": "ucla", "name": "UCLA", "abbreviation": "UCLA", "logo": "/team-logos/ucla.png" },
   { "id": "usc", "name": "USC", "abbreviation": "USC", "logo": "/team-logos/usc.png" },
   { "id": "utah", "name": "Utah", "abbreviation": "UTAH", "logo": "/team-logos/utah.png" },
+  { "id": "virginia", "name": "Virginia", "abbreviation": "VA", "logo": "/team-logos/virginia.png" },
   { "id": "virginia-tech", "name": "Virginia Tech", "abbreviation": "VT", "logo": "/team-logos/virginia-tech.png" },
   { "id": "washington-state", "name": "Washington State", "abbreviation": "WSU", "logo": "/team-logos/washington-state.png" },
   { "id": "washington", "name": "Washington", "abbreviation": "WASH", "logo": "/team-logos/washington.png" },

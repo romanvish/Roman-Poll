@@ -49,28 +49,26 @@
         "Western Michigan": "0-1"
     },
     "editorial": {
-        "headline": "Welcome to the Inaugural Roman Poll!",
-        "dek": "Ohio State opens as the top pick in the 2026 Preseason Poll, Oregon and defending national champion Indiana round out the podium. Notre Dame is the only other team to receive a first-place vote.",
+        "headline": "Oregon on Fraud Watch this early?",
+        "dek": "Oregon tumbles as they barely sneak past Boise State, Notre Dame, Miami, and LSU rise as Texas Tech and Oregon fall.",
         "analysis": [
-            "Voters think there is a top tier at 1-7, and then a second tier at 8-15, and then everybody else.",
-            "The Big 10 controls the top of the poll, with the SEC rounding out most of the top 15. Low representation from the ACC and Big 12.",
-            "No love for the Group of 6 as Boise State barely doesn't crack the preseason Top 25, and no other G6 team got a single vote."
+            
         ],
         "highlights": [
             {
-                "label": "Consensus",
-                "title": "Ohio State starts alone at the top",
-                "body": "Six of seven ballots placed the Buckeyes first, giving Ohio State a healthy lead to start the season."
+                "label": "Geaux Tigahs",
+                "title": "LSU joins the championship contenders",
+                "body": "LSU is able to leapfrog to the top tier of points after routing Clemson at home."
             },
             {
-                "label": "Big 10 Wildcards",
-                "title": "Debate amongst the voters",
-                "body": "The widest spreads between the voters were seen in the Big 10, with low consensus upper-middle class of teams like Iowa, Washington, and Penn State."
+                "label": "Michigan Out",
+                "title": "Michigan falls out of the ballot",
+                "body": "Michigan is the first team to fall out of the ballot after a win against Western Michigan. Teams were previously undefeated after leading through regulation."
             },
             {
-                "label": "Lone Star Grouping",
-                "title": "Texas schools end up together in the Top 10",
-                "body": "Texas is seen as the lowest ranked \"Title Contender\", with A&M and Tech leading the second tier of the poll."
+                "label": "Still no G6",
+                "title": "Boise and WM make a push, but still no G6 representation.",
+                "body": "2 Quality losses not enough to push either Boise or Western Michigan into the ballot. Boise State loses to Oregon, and Western Michigan loses to Michigan. Both receive significant votes."
             }
         ]
     },
@@ -283,66 +281,6 @@
                 {"rank": 23,"team": "Virginia"},
                 {"rank": 24,"team": "Arizona"},
                 {"rank": 25,"team": "Louisville"}
-            ]
-        },
-        {
-            "voterId": "michael-frodsham-not-ready",
-            "ballot": [
-                {"rank": 1,"team": "Oregon"},
-                {"rank": 2,"team": "Ohio State"},
-                {"rank": 3,"team": "Indiana"},
-                {"rank": 4,"team": "Georgia"},
-                {"rank": 5,"team": "Texas"},
-                {"rank": 6,"team": "Notre Dame"},
-                {"rank": 7,"team": "Texas A&M"},
-                {"rank": 8,"team": "Oklahoma"},
-                {"rank": 9,"team": "Miami"},
-                {"rank": 10,"team": "LSU"},
-                {"rank": 11,"team": "Ole Miss"},
-                {"rank": 12,"team": "Texas Tech"},
-                {"rank": 13,"team": "Alabama"},
-                {"rank": 14,"team": "BYU"},
-                {"rank": 15,"team": "USC"},
-                {"rank": 16,"team": "Michigan"},
-                {"rank": 17,"team": "SMU"},
-                {"rank": 18,"team": "Washington"},
-                {"rank": 19,"team": "Penn State"},
-                {"rank": 20,"team": "Tennessee"},
-                {"rank": 21,"team": "Utah"},
-                {"rank": 22,"team": "Houston"},
-                {"rank": 23,"team": "Louisville"},
-                {"rank": 24,"team": "Clemson"},
-                {"rank": 25,"team": "Arizona"}
-            ]
-        },
-        {
-            "voterId": "carson-halls-not-ready",
-            "ballot": [
-                {"rank": 1,"team": "Ohio State"},
-                {"rank": 2,"team": "Georgia"},
-                {"rank": 3,"team": "Oregon"},
-                {"rank": 4,"team": "Texas"},
-                {"rank": 5,"team": "Indiana"},
-                {"rank": 6,"team": "Notre Dame"},
-                {"rank": 7,"team": "Oklahoma"},
-                {"rank": 8,"team": "LSU"},
-                {"rank": 9,"team": "Texas Tech"},
-                {"rank": 10,"team": "Miami"},
-                {"rank": 11,"team": "Ole Miss"},
-                {"rank": 12,"team": "Texas A&M"},
-                {"rank": 13,"team": "Alabama"},
-                {"rank": 14,"team": "BYU"},
-                {"rank": 15,"team": "USC"},
-                {"rank": 16,"team": "Penn State"},
-                {"rank": 17,"team": "Michigan"},
-                {"rank": 18,"team": "Tennessee"},
-                {"rank": 19,"team": "Iowa"},
-                {"rank": 20,"team": "Washington"},
-                {"rank": 21,"team": "SMU"},
-                {"rank": 22,"team": "Arizona"},
-                {"rank": 23,"team": "Houston"},
-                {"rank": 24,"team": "Utah"},
-                {"rank": 25,"team": "Georgia Tech"}
             ]
         }
     ]
