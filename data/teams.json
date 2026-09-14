@@ -25,6 +25,7 @@
   { "id": "notre-dame", "name": "Notre Dame", "abbreviation": "ND", "logo": "/team-logos/notre-dame.png" },
   { "id": "ohio-state", "name": "Ohio State", "abbreviation": "OSU", "logo": "/team-logos/ohio-state.png" },
   { "id": "oklahoma", "name": "Oklahoma", "abbreviation": "OU", "logo": "/team-logos/oklahoma.png" },
+  { "id": "oklahoma-state", "name": "Oklahoma State", "abbreviation": "OSU", "logo": "/team-logos/oklahoma-state.png" },
   { "id": "ole-miss", "name": "Ole Miss", "abbreviation": "MISS", "logo": "/team-logos/ole-miss.png" },
   { "id": "oregon", "name": "Oregon", "abbreviation": "ORE", "logo": "/team-logos/oregon.png" },
   { "id": "penn-state", "name": "Penn State", "abbreviation": "PSU", "logo": "/team-logos/penn-state.png" },
