@@ -21,6 +21,7 @@
         "Miami": "2-0",
         "Michigan": "2-0",
         "Missouri": "2-0",
+        "Nebraska": "2-0",
         "Notre Dame": "2-0",
         "Ohio State": "1-1",
         "Oklahoma": "1-1",
@@ -38,30 +39,33 @@
         "USC": "3-0",
         "Utah": "2-0",
         "Virginia": "2-0",
+        "Virginia Tech": "2-0",
         "Washington": "2-0",
         "Western Michigan": "1-1"
     },
     "editorial": {
-        "headline": "Oregon on Fraud Watch this early?",
-        "dek": "Oregon tumbles as they barely sneak past Boise State, Notre Dame, Miami, and LSU rise as Texas Tech and Oregon fall.",
+        "headline": "Texas Goes #1!",
+        "dek": "Longhorns complete the second-half comeback against the Buckeyes to rise 5 spots to take #1. Ohio State falls 5 spots as they give up 21 in the 4th quarter.",
         "analysis": [
-            
+            "Texas has taken the #1 spot in a landslide, but 2 through 5 are within 7 points of each other. Ohio State gets caught in the 1B tier with LSU",
+            "Tiers are starting to emerge after the top 10 as the voter are getting more sure about the gaps between teams like BYU and Texas Tech, and USC and Tennessee, and Penn State and Houston",
+            "Voters are consistently voting for a total of about 33-36 teams, despite being 2 weeks into the season"
         ],
         "highlights": [
             {
-                "label": "Geaux Tigahs",
-                "title": "LSU joins the championship contenders",
-                "body": "LSU is able to leapfrog to the top tier of points after routing Clemson at home."
+                "label": "See ya later, Florida Gators",
+                "title": "Florida and Washington drop out of rankings",
+                "body": "Despite staying undefeated, voters were unimpressed with the quality of play from the Huskies and Gators"
             },
             {
-                "label": "Michigan Out",
-                "title": "Michigan falls out of the ballot",
-                "body": "Michigan is the first team to fall out of the ballot after a win against Western Michigan. Teams were previously undefeated after leading through regulation."
+                "label": "Tigers and Wolverines claw their way back",
+                "title": "Michigan, Missouri are back in the rankings",
+                "body": "Michigan upsets Oklahoma, Missouri able to fight slavery allegations as they route Kansas at the Border War in Lawrence"
             },
             {
-                "label": "Still no G6",
-                "title": "Boise and WM make a push, but still no G6 representation.",
-                "body": "2 Quality losses not enough to push either Boise or Western Michigan into the ballot. Boise State loses to Oregon, and Western Michigan loses to Michigan. Both receive significant votes."
+                "label": "Bad week to be a high QB Prospect",
+                "title": "Mateer and Moore both have down weeks as teams are upset",
+                "body": "Mestemaker and Underwood outduel Heisman Hopefuls for upset wins to launch Michigan and Oklahoma State into consideration."
             }
         ]
     },
@@ -244,6 +248,66 @@
                 {"rank": 23,"team": "Michigan"},
                 {"rank": 24,"team": "Oklahoma"},
                 {"rank": 25,"team": "Oklahoma State"}
+            ]
+        },
+        {
+            "voterId": "nathan-johnson",
+            "ballot": [
+                {"rank": 1,"team": "Indiana"},
+                {"rank": 2,"team": "Georgia"},
+                {"rank": 3,"team": "Texas"},
+                {"rank": 4,"team": "Notre Dame"},
+                {"rank": 5,"team": "Miami"},
+                {"rank": 6,"team": "Ohio State"},
+                {"rank": 7,"team": "LSU"},
+                {"rank": 8,"team": "Texas A&M"},
+                {"rank": 9,"team": "Ole Miss"},
+                {"rank": 10,"team": "BYU"},
+                {"rank": 11,"team": "USC"},
+                {"rank": 12,"team": "Alabama"},
+                {"rank": 13,"team": "Nebraska"},
+                {"rank": 14,"team": "Utah"},
+                {"rank": 15,"team": "Texas Tech"},
+                {"rank": 16,"team": "Penn State"},
+                {"rank": 17,"team": "SMU"},
+                {"rank": 18,"team": "Houston"},
+                {"rank": 19,"team": "Michigan"},
+                {"rank": 20,"team": "Oklahoma"},
+                {"rank": 21,"team": "Missouri"},
+                {"rank": 22,"team": "Virginia"},
+                {"rank": 23,"team": "Virginia Tech"},
+                {"rank": 24,"team": "Louisville"},
+                {"rank": 25,"team": "Kansas State"}
+            ]
+        },
+        {
+            "voterId": "jack-wooley",
+            "ballot": [
+                {"rank": 1,"team": "Texas"},
+                {"rank": 2,"team": "Ohio State"},
+                {"rank": 3,"team": "LSU"},
+                {"rank": 4,"team": "Indiana"},
+                {"rank": 5,"team": "Georgia"},
+                {"rank": 6,"team": "Miami"},
+                {"rank": 7,"team": "Texas A&M"},
+                {"rank": 8,"team": "Notre Dame"},
+                {"rank": 9,"team": "Ole Miss"},
+                {"rank": 10,"team": "BYU"},
+                {"rank": 11,"team": "Alabama"},
+                {"rank": 12,"team": "Utah"},
+                {"rank": 13,"team": "Penn State"},
+                {"rank": 14,"team": "Texas Tech"},
+                {"rank": 15,"team": "Tennessee"},
+                {"rank": 16,"team": "SMU"},
+                {"rank": 17,"team": "Virginia"},
+                {"rank": 18,"team": "Houston"},
+                {"rank": 19,"team": "USC"},
+                {"rank": 20,"team": "Oregon"},
+                {"rank": 21,"team": "Missouri"},
+                {"rank": 22,"team": "Iowa"},
+                {"rank": 23,"team": "Boise State"},
+                {"rank": 24,"team": "Kansas State"},
+                {"rank": 25,"team": "Oklahoma"}
             ]
         }
         
