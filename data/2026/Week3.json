@@ -1,0 +1,102 @@
+{
+    "season": 2026,
+    "week": 3,
+    "publishedAt": "2026-09-20",
+    "records": {
+        "Alabama": "3-0",
+        "Arizona": "1-1*",
+        "Boise State": "1-1*",
+        "BYU": "3-0",
+        "Florida": "3-0",
+        "Florida State": "0-1",
+        "Georgia": "3-0",
+        "Georgia Tech": "0-2",
+        "Houston": "2-1",
+        "Illinois": "1-0",
+        "Indiana": "3-0",
+        "Iowa": "3-0",
+        "Kansas State": "3-0",
+        "Louisville": "2-1",
+        "LSU": "2-1",
+        "Miami": "3-0",
+        "Michigan": "3-0",
+        "Missouri": "3-0",
+        "Notre Dame": "3-0",
+        "Ohio State": "2-1",
+        "Oklahoma": "2-1",
+        "Oklahoma State": "2-1",
+        "Ole Miss": "3-0",
+        "Oregon": "2-1",
+        "Penn State": "3-0",
+        "Pittsburgh": "3-0",
+        "SMU": "2-1",
+        "Tennessee": "3-0",
+        "Texas": "3-0",
+        "Texas A&M": "2-1",
+        "Texas Tech": "3-0",
+        "UCLA": "1-0",
+        "USC": "4-0",
+        "Utah": "3-0",
+        "Virginia": "2-1",
+        "Washington": "2-0",
+        "West Virginia": "3-0",
+        "Western Michigan": "0-1"
+    },
+    "editorial": {
+        "headline": "Oregon on Fraud Watch this early?",
+        "dek": "Oregon tumbles as they barely sneak past Boise State, Notre Dame, Miami, and LSU rise as Texas Tech and Oregon fall.",
+        "analysis": [
+            
+        ],
+        "highlights": [
+            {
+                "label": "Geaux Tigahs",
+                "title": "LSU joins the championship contenders",
+                "body": "LSU is able to leapfrog to the top tier of points after routing Clemson at home."
+            },
+            {
+                "label": "Michigan Out",
+                "title": "Michigan falls out of the ballot",
+                "body": "Michigan is the first team to fall out of the ballot after a win against Western Michigan. Teams were previously undefeated after leading through regulation."
+            },
+            {
+                "label": "Still no G6",
+                "title": "Boise and WM make a push, but still no G6 representation.",
+                "body": "2 Quality losses not enough to push either Boise or Western Michigan into the ballot. Boise State loses to Oregon, and Western Michigan loses to Michigan. Both receive significant votes."
+            }
+        ]
+    },
+    "voters": [
+        {
+            "voterId": "roman-vish",
+            "ballot": [
+                {"rank": 1,"team": "Texas"},
+                {"rank": 2,"team": "Indiana"},
+                {"rank": 5,"team": "Georgia"},
+                {"rank": 6,"team": "Ohio State"},
+                {"rank": 4,"team": "Notre Dame"},
+                {"rank": 3,"team": "Miami"},
+                {"rank": 9,"team": "Ole Miss"},
+                {"rank": 7,"team": "LSU"},
+                {"rank": 11,"team": "BYU"},
+                {"rank": 12,"team": "Tennessee"},
+                {"rank": 15,"team": "Louisville"},
+                {"rank": 10,"team": "Alabama"},
+                {"rank": 14,"team": "Texas Tech"},
+                {"rank": 16,"team": "Penn State"},
+                {"rank": 13,"team": "USC"},
+                {"rank": 18,"team": "Iowa"},
+                {"rank": 17,"team": "SMU"},
+                {"rank": 19,"team": "Utah"},
+                {"rank": 22,"team": "Oregon"},
+                {"rank": 20,"team": "Houston"},
+                {"rank": 21,"team": "Missouri"},
+                {"rank": 23,"team": "Boise State/Kansas State"},
+                {"rank": 24,"team": "Florida"},
+                {"rank": 25,"team": "West Virginia"}
+                {"rank": 8,"team": "Texas A&M"},
+            ]
+        }
+        
+    ]
+}
