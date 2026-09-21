@@ -6,6 +6,7 @@
   { "id": "byu", "name": "BYU", "abbreviation": "BYU", "logo": "/team-logos/byu.png" },
   { "id": "california", "name": "California", "abbreviation": "CAL", "logo": "/team-logos/california.png" },
   { "id": "clemson", "name": "Clemson", "abbreviation": "CLEM", "logo": "/team-logos/clemson.png" },
+  { "id": "duke", "name": "Duke", "abbreviation": "DUKE", "logo": "/team-logos/duke.png" },
   { "id": "florida", "name": "Florida", "abbreviation": "FLA", "logo": "/team-logos/florida.png" },
   { "id": "florida-state", "name": "Florida State", "abbreviation": "FSU", "logo": "/team-logos/florida-state.png" },
   { "id": "georgia", "name": "Georgia", "abbreviation": "UGA", "logo": "/team-logos/georgia.png" },
@@ -19,6 +20,7 @@
   { "id": "lsu", "name": "LSU", "abbreviation": "LSU", "logo": "/team-logos/lsu.png" },
   { "id": "miami", "name": "Miami", "abbreviation": "MIA", "logo": "/team-logos/miami.png" },
   { "id": "michigan", "name": "Michigan", "abbreviation": "MICH", "logo": "/team-logos/michigan.png" },
+  { "id": "mississippi-state", "name": "Mississippi State", "abbreviation": "MSU", "logo": "/team-logos/mississippi-state.png" },
   { "id": "missouri", "name": "Missouri", "abbreviation": "MIZ", "logo": "/team-logos/missouri.png" },
   { "id": "nebraska", "name": "Nebraska", "abbreviation": "NEB", "logo": "/team-logos/nebraska.png" },
   { "id": "north-carolina", "name": "North Carolina", "abbreviation": "UNC", "logo": "/team-logos/north-carolina.png" },
@@ -45,5 +47,6 @@
   { "id": "virginia-tech", "name": "Virginia Tech", "abbreviation": "VT", "logo": "/team-logos/virginia-tech.png" },
   { "id": "washington-state", "name": "Washington State", "abbreviation": "WSU", "logo": "/team-logos/washington-state.png" },
   { "id": "washington", "name": "Washington", "abbreviation": "WASH", "logo": "/team-logos/washington.png" },
-  { "id": "western-michigan", "name": "Western Michigan", "abbreviation": "WM", "logo": "/team-logos/western-michigan.png" }
+  { "id": "western-michigan", "name": "Western Michigan", "abbreviation": "WM", "logo": "/team-logos/western-michigan.png" },
+  { "id": "west-virginia", "name": "West Virginia", "abbreviation": "WVU", "logo": "/team-logos/west-virginia.png" }
 ]
