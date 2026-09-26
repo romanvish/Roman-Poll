@@ -47,26 +47,28 @@
         "Western Michigan": "0-1"
     },
     "editorial": {
-        "headline": "Oregon on Fraud Watch this early?",
-        "dek": "Oregon tumbles as they barely sneak past Boise State, Notre Dame, Miami, and LSU rise as Texas Tech and Oregon fall.",
+        "headline": "Absolute Barn Burner this week in the CFB",
+        "dek": "Expect a huge shakeup next week as voters have proven to not be very forgiving of teams that have lost early.",
         "analysis": [
-            
+            "With conference play starting this week expect the cannibalization of the top dogs to begin.",
+            "Texas stays at number 1 but there are still 4 teams receiving first place votes.",
+            "The poll has mostly settled on rankings within the top 10 (except for Indiana), with everyone voting them within 3 places of their actual ranking. The rest of the ballot remains a mess."
         ],
         "highlights": [
             {
-                "label": "Geaux Tigahs",
-                "title": "LSU joins the championship contenders",
-                "body": "LSU is able to leapfrog to the top tier of points after routing Clemson at home."
+                "label": "Hoddy Toddy Mr. Kiffin",
+                "title": "Ole Miss jumps to the top 5 after a big win against LSU",
+                "body": "Ole Miss is able to jump 4 spots after surviving a comeback attempt from LSU, giving the SEC 3 teams in the top 5."
             },
             {
-                "label": "Michigan Out",
-                "title": "Michigan falls out of the ballot",
-                "body": "Michigan is the first team to fall out of the ballot after a win against Western Michigan. Teams were previously undefeated after leading through regulation."
+                "label": "SEC Rockets",
+                "title": "No not that kind",
+                "body": "Florida and Mississippi State enter the Poll after the voters decide that they are for real. Florida jumping to 18th after being unranked last week is the highest jump into the rankings we've seen so far."
             },
             {
-                "label": "Still no G6",
-                "title": "Boise and WM make a push, but still no G6 representation.",
-                "body": "2 Quality losses not enough to push either Boise or Western Michigan into the ballot. Boise State loses to Oregon, and Western Michigan loses to Michigan. Both receive significant votes."
+                "label": "Tumbling down and out",
+                "title": "Football royalty names like Oregon and A&M found at the bottom of the ballot after tough weeks.",
+                "body": "Interesting to note that SMU, Houston, Oklahoma, and Virginia all found themselves on a downward spiral after the committee HATED their efforts this week."
             }
         ]
     },
