@@ -200,6 +200,36 @@
                 {"rank": 24,"team": "Nebraska"},
                 {"rank": 25,"team": "Virginia Tech"}
             ]
+        },
+        {
+            "voterId": "michael-skye",
+            "ballot": [
+                {"rank": 1,"team": "Notre Dame"},
+                {"rank": 2,"team": "Georgia"},
+                {"rank": 3,"team": "Texas"},
+                {"rank": 4,"team": "Ohio State"},
+                {"rank": 5,"team": "Miami"},
+                {"rank": 6,"team": "Indiana"},
+                {"rank": 7,"team": "Alabama"},
+                {"rank": 8,"team": "Florida"},
+                {"rank": 9,"team": "Ole Miss"},
+                {"rank": 10,"team": "BYU"},
+                {"rank": 11,"team": "LSU"},
+                {"rank": 12,"team": "Utah"},
+                {"rank": 13,"team": "Oregon"},
+                {"rank": 14,"team": "Mississippi State"},
+                {"rank": 15,"team": "Texas Tech"},
+                {"rank": 16,"team": "Iowa"},
+                {"rank": 17,"team": "Tennessee"},
+                {"rank": 18,"team": "USC"},
+                {"rank": 19,"team": "Boise State"},
+                {"rank": 20,"team": "Oklahoma State"},
+                {"rank": 21,"team": "UCLA"},
+                {"rank": 22,"team": "Duke"},
+                {"rank": 23,"team": "Houston"},
+                {"rank": 24,"team": "Wake Forest"},
+                {"rank": 25,"team": "SMU"}
+            ]
         }
         
     ]
