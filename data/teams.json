@@ -23,6 +23,7 @@
   { "id": "lsu", "name": "LSU", "abbreviation": "LSU", "logo": "/team-logos/lsu.png" },
   { "id": "miami", "name": "Miami", "abbreviation": "MIA", "logo": "/team-logos/miami.png" },
   { "id": "michigan", "name": "Michigan", "abbreviation": "MICH", "logo": "/team-logos/michigan.png" },
+  { "id": "minnesota", "name": "Minnesota", "abbreviation": "MINN", "logo": "/team-logos/minnesota.png" },
   { "id": "mississippi-state", "name": "Mississippi State", "abbreviation": "MSU", "logo": "/team-logos/mississippi-state.png" },
   { "id": "missouri", "name": "Missouri", "abbreviation": "MIZ", "logo": "/team-logos/missouri.png" },
   { "id": "nebraska", "name": "Nebraska", "abbreviation": "NEB", "logo": "/team-logos/nebraska.png" },

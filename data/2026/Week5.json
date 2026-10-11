@@ -17,6 +17,7 @@
         "Kentucky": "4-1",
         "LSU": "4-1",
         "Miami": "5-0",
+        "Minnesota": "4-1",
         "Mississippi State": "4-1",
         "Missouri": "4-1",
         "Nebraska": "5-0",
@@ -196,6 +197,36 @@
                 {"rank": 23,"team": "Mississippi State"},
                 {"rank": 24,"team": "Wake Forest"},
                 {"rank": 25,"team": "Northwestern"}
+            ]
+        },
+        {
+            "voterId": "jack-wooley",
+            "ballot": [
+                {"rank": 1,"team": "Texas"},
+                {"rank": 2,"team": "Georgia"},
+                {"rank": 3,"team": "Alabama"},
+                {"rank": 4,"team": "Ohio State"},
+                {"rank": 5,"team": "Indiana"},
+                {"rank": 6,"team": "Miami"},
+                {"rank": 7,"team": "Notre Dame"},
+                {"rank": 8,"team": "Ole Miss"},
+                {"rank": 9,"team": "LSU"},
+                {"rank": 10,"team": "BYU"},
+                {"rank": 11,"team": "Texas Tech"},
+                {"rank": 12,"team": "Missouri"},
+                {"rank": 13,"team": "Mississippi State"},
+                {"rank": 14,"team": "Oregon"},
+                {"rank": 15,"team": "Utah"},
+                {"rank": 16,"team": "Tennessee"},
+                {"rank": 17,"team": "SMU"},
+                {"rank": 18,"team": "Florida"},
+                {"rank": 19,"team": "Houston"},
+                {"rank": 20,"team": "USC"},
+                {"rank": 21,"team": "Iowa"},
+                {"rank": 22,"team": "Oklahoma State"},
+                {"rank": 23,"team": "Northwestern"},
+                {"rank": 24,"team": "UCLA"},
+                {"rank": 25,"team": "Minnesota"}
             ]
         }
         
