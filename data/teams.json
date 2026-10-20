@@ -55,5 +55,6 @@
   { "id": "washington-state", "name": "Washington State", "abbreviation": "WSU", "logo": "/team-logos/washington-state.png" },
   { "id": "washington", "name": "Washington", "abbreviation": "WASH", "logo": "/team-logos/washington.png" },
   { "id": "western-michigan", "name": "Western Michigan", "abbreviation": "WM", "logo": "/team-logos/western-michigan.png" },
-  { "id": "west-virginia", "name": "West Virginia", "abbreviation": "WVU", "logo": "/team-logos/west-virginia.png" }
+  { "id": "west-virginia", "name": "West Virginia", "abbreviation": "WVU", "logo": "/team-logos/west-virginia.png" },
+  { "id": "wisconsin", "name": "Wisconsin", "abbreviation": "WIS", "logo": "/team-logos/wisconsin.png" }
 ]
