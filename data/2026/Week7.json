@@ -134,6 +134,36 @@
                 {"rank": 24,"team": "Florida"},
                 {"rank": 25,"team": "SMU"}
             ]
+        },        
+        {
+            "voterId": "jack-wooley",
+            "ballot": [
+                {"rank": 1,"team": "BYU"},
+                {"rank": 2,"team": "Miami"},
+                {"rank": 3,"team": "Ohio State"},
+                {"rank": 4,"team": "Notre Dame"},
+                {"rank": 5,"team": "Georgia"},
+                {"rank": 6,"team": "Texas Tech"},
+                {"rank": 7,"team": "Indiana"},
+                {"rank": 8,"team": "UCLA"},
+                {"rank": 9,"team": "Utah"},
+                {"rank": 10,"team": "Ole Miss"},
+                {"rank": 11,"team": "Houston"},
+                {"rank": 12,"team": "Tennessee"},
+                {"rank": 13,"team": "Kentucky"},
+                {"rank": 14,"team": "Iowa"},
+                {"rank": 15,"team": "Texas"},
+                {"rank": 16,"team": "Alabama"},
+                {"rank": 17,"team": "SMU"},
+                {"rank": 18,"team": "Boise State"},
+                {"rank": 19,"team": "Arizona"},
+                {"rank": 20,"team": "LSU"},
+                {"rank": 21,"team": "Northwestern"},
+                {"rank": 22,"team": "James Madison"},
+                {"rank": 23,"team": "Florida"},
+                {"rank": 24,"team": "Missouri"},
+                {"rank": 25,"team": "Wake Forest"}
+            ]
         }        
     ]
 }
